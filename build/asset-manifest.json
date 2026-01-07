@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/student-dashboard/static/css/main.30b070fd.css",
+    "main.js": "/student-dashboard/static/js/main.70c2246f.js",
+    "index.html": "/student-dashboard/index.html",
+    "main.30b070fd.css.map": "/student-dashboard/static/css/main.30b070fd.css.map",
+    "main.70c2246f.js.map": "/student-dashboard/static/js/main.70c2246f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30b070fd.css",
+    "static/js/main.70c2246f.js"
+  ]
+}
